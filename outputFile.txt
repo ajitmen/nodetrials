@@ -1,0 +1,207 @@
+[
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "\n                \n            ",
+        "url": "https://wiprodigital.com"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Who we are",
+        "url": "https://wiprodigital.com/who-we-are"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Our story",
+        "url": "https://wiprodigital.com/who-we-are"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Our story",
+        "url": "https://wiprodigital.com/who-we-are/#wdteam-vid"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Meet us",
+        "url": "https://wiprodigital.com/who-we-are#wdteam_meetus"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Leaders",
+        "url": "https://wiprodigital.com/who-we-are#wdteam_leaders"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "What we do",
+        "url": "https://wiprodigital.com/what-we-do"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Services",
+        "url": "https://wiprodigital.com/what-we-do#work-three-circles-row"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Case studies",
+        "url": "https://wiprodigital.com/what-we-do#wdwork_cases"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Partners",
+        "url": "https://wiprodigital.com/what-we-do#wdwork_partners"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "What we think",
+        "url": "https://wiprodigital.com/what-we-think"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Insights",
+        "url": "https://wiprodigital.com/?s=&post_type[]=post"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Cases",
+        "url": "https://wiprodigital.com/?s=&post_type[]=cases"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Events",
+        "url": "https://wiprodigital.com/?s=&post_type[]=events"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "News",
+        "url": "https://wiprodigital.com/?s=&post_type[]=news"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Join our team",
+        "url": "https://wiprodigital.com/join-our-team"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Better together",
+        "url": "https://wiprodigital.com/join-our-team"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Better together",
+        "url": "https://wiprodigital.com/join-our-team#wdwork-vid"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Our teams",
+        "url": "https://wiprodigital.com/join-our-team#wdcareers_team"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Open positions",
+        "url": "https://wiprodigital.com/join-our-team#wdcareers_jobs"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Get in touch",
+        "url": "https://wiprodigital.com/get-in-touch"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Locations",
+        "url": "https://wiprodigital.com/get-in-touch#wddi-locations"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Contact us",
+        "url": "https://wiprodigital.com/get-in-touch#wddi-contact"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "",
+        "url": "https://wiprodigital.com"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "\n                        \n                    ",
+        "url": "https://www.facebook.com/WiproDigital/"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "\n                        \n                    ",
+        "url": "https://twitter.com/wiprodigital"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "\n                        \n                    ",
+        "url": "https://www.linkedin.com/company/wipro-digital"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Our story",
+        "url": "https://wiprodigital.com/who-we-are"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Meet us",
+        "url": "https://wiprodigital.com/who-we-are#wdteam_meetus"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Leaders",
+        "url": "https://wiprodigital.com/who-we-are#wdteam_leaders"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Services",
+        "url": "https://wiprodigital.com/what-we-do#work-three-circles-row"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Case studies",
+        "url": "https://wiprodigital.com/what-we-do#wdwork_cases"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Partners",
+        "url": "https://wiprodigital.com/what-we-do#wdwork_partners"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Insights",
+        "url": "https://wiprodigital.com/?s=&post_type[]=post"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "News",
+        "url": "https://wiprodigital.com/?s=&post_type[]=news"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Events",
+        "url": "https://wiprodigital.com/?s=&post_type[]=events"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Better together",
+        "url": "https://wiprodigital.com/join-our-team"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Our teams",
+        "url": "https://wiprodigital.com/join-our-team#wdcareers_team"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Open positions",
+        "url": "https://wiprodigital.com/join-our-team#wdcareers_jobs"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Privacy policy",
+        "url": "https://wiprodigital.com/privacy-policy"
+    },
+    {
+        "parent": "https://wiprodigital.com/get-in-touch#wddi-locations",
+        "title": "Privacy policy",
+        "url": "https://wiprodigital.com/privacy-policy"
+    }
+]
